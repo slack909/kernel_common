@@ -1,7 +1,7 @@
 		Writing Device Drivers for Zorro Devices
 		----------------------------------------
 
-Written by Geert Uytterhoeven <geert@linux-m68k.org>
+Written by Geert Uytterheven <geert@linux-m68k.org>
 Last revised: September 5, 2003
 
 
